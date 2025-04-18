@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Pract2/App.axaml" value="Pract2/Pract2.csproj" />
+        <entry key="Pract2/DialogWindow.axaml" value="Pract2/Pract2.csproj" />
+        <entry key="Pract2/MainWindow.axaml" value="Pract2/Pract2.csproj" />
+        <entry key="Pract2/ResultWindow.axaml" value="Pract2/Pract2.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
